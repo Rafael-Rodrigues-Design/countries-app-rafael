@@ -1,4 +1,4 @@
-import { Countries } from "../components/Countries";
+import { Countries } from "../components/Countries"
 
 export function Home() {
     return <Countries />

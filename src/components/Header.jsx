@@ -1,7 +1,7 @@
-import { CgDarkMode } from "react-icons/cg";
+import { CgDarkMode } from "react-icons/cg"
 import styles from "./Header.module.css"
-import { Link } from "react-router-dom";
-import { useEffect, useState } from "react";
+import { Link } from "react-router-dom"
+import { useEffect, useState } from "react"
 
 export function Header() {
 

@@ -2,7 +2,7 @@ import { useEffect, useState } from "react"
 import { CountryCard } from "./CountryCard"
 
 import styles from "./Countries.module.css"
-import { Search } from "./search"
+import { Search } from "./Search"
 
 export function Countries() {
     const [countries, setCountries] = useState([])

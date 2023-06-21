@@ -1,4 +1,4 @@
-import { CountryInfo } from "../components/CountryInfo";
+import { CountryInfo } from "../components/CountryInfo"
 
 
 export function Country() {
